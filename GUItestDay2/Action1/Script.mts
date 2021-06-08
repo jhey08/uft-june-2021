@@ -1,1 +1,9 @@
-﻿msgBox "ciao"
+﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategory").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategory")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Image("fetchImage?image_id=4200").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Image("fetchImage?image id4200")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("quantity").Check CheckPoint("quantity") @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("quantity")_;_script infofile_;_ZIP::ssf3.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save_to_cart").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save to cart")_;_script infofile_;_ZIP::ssf4.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("check_out_btn").Check CheckPoint("check_out_btn") @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping 2").Link("BOSE SOUNDLINK BLUETOOTH")_;_script infofile_;_ZIP::ssf7.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping_2").WebButton("check_out_btn").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping 2").Link("BOSE SOUNDLINK BLUETOOTH 2")_;_script infofile_;_ZIP::ssf9.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping_2").Link("ShoppingCart").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping 2").Link("ShoppingCart")_;_script infofile_;_ZIP::ssf10.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("REMOVE").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("REMOVE")_;_script infofile_;_ZIP::ssf11.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("Link").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("Link")_;_script infofile_;_ZIP::ssf12.xml_;_
